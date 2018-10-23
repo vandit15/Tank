@@ -23,7 +23,7 @@ brown = (205,133,63)
 #sounds
 sound = pygame.mixer.Sound("bomb.wav")
 
-#vriables
+#variables
 display_width = 700
 display_height = 500
 fps = 20
